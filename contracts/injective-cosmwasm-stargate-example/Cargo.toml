@@ -38,5 +38,5 @@ thiserror          = { workspace = true }
 
 [dev-dependencies]
 injective-std       = { workspace = true }
-injective-test-tube = { workspace = true }
+#injective-test-tube = { workspace = true }
 injective-testing   = { workspace = true }

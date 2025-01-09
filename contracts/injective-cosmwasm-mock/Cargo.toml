@@ -35,5 +35,5 @@ serde              = { workspace = true }
 thiserror          = { workspace = true }
 
 [dev-dependencies]
-injective-test-tube = { workspace = true }
+#injective-test-tube = { workspace = true }
 injective-testing   = { path = "../../packages/injective-testing" }
